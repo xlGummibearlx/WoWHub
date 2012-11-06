@@ -1,0 +1,2 @@
+﻿Welcome Stranger! This is our feble attempt at test app! We're not quite sure if we want to use github, so we're making some public test repositories before paying
+for private ones. Thanks for your stay!
